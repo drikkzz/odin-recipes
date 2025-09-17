@@ -1,1 +1,2 @@
 # odin-recipes
+recettes simples
